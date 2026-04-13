@@ -137,8 +137,7 @@ Voor de toegangsbeveiliging worden voorzieningen aangebracht op de vastgestelde 
 Alle buitendeuren, ingangen en nooduitgangen, worden voorzien van deurstandsignalering aangesloten op de inbraak- of de toegangsbeheerinstallatie. Alle ruimten aan de gevel worden voorzien van ruimte detectie. 
 
 ### 6 Brandbeveiligingsinstallaties
-
-Uitgangspunt is dat de bestaande brandveiligheidsvoorzieningen, waaronder brandmeldinstallatie, ontruimingsinstallatie, noodverlichting en vluchtrouteaanduiding, gehandhaafd blijven indien uit inspectie en toetsing blijkt dat deze correct functioneren en passend zijn bij de nieuwe indeling en gebruiksfunctie.
+Uitgangspunt is dat de bestaande brandveiligheidsvoorzieningen, waaronder brandmeldinstallatie, ontruimingsinstallatie, noodverlichting en vluchtrouteaanduiding, gehandhaafd blijven indien uit inspectie en toetsing blijkt dat deze correct functioneren en passend zijn bij de nieuwe indeling en gebruiksfunctie. Het Integraal Plan Brandveiligheid en het bijbehorende Uitgangspunten Document dienen met Haskonining te worden gedeeld ter kennisneming. Eventuele aanpassingen dienen aan deze documenten te voldoen; evnetuele afwijkingen dienen schrijftelijk vastgelegd en besproken te worden voor ingebruikname.
 
 Voorafgaand aan de uitvoering dient te worden vastgesteld of de nieuwe indeling, de nieuwe serverruimte, de twee nieuwe vergaderruimten en de gewijzigde gebruiksfunctie van ruimten aanleiding geven tot aanpassing van detectie, alarmering, sturing, projectering of compartimentering. Indien aanpassing noodzakelijk is, dient deze beperkt te blijven tot het minimaal benodigde deel van de bestaande installatie.
 
