@@ -28,10 +28,10 @@ In het gebouw zijn installaties aanwezig die zoveel mogelijk gehandhaafd blijven
 De bestaande klimaatinstallatie met klimaatplafond blijft gehandhaafd. De bestaande gecombineerde kabelgootinfrastructuur blijft gehandhaafd, tenzij uit de nadere uitwerking blijkt dat aanpassing noodzakelijk is voor toereikende ontsluiting van de nieuwe werkplekken en overlegvoorzieningen.
 
 ### 4 Werktuigbouwkundige eisen
+De werktuigbouwkundige eisen zijn ontleend aan het openbaar document Programma van Eisen Gezonde Kantoren 2021; dat document bevat lucht- en klimaattechnische eisen, die hieronder ten dele zijn vermeld.
 
 #### 4.1 Eisen betreffende ventilatie
 Voor nieuw aan te brengen of aan te passen delen van het ventilatiesysteem, waaronder aftakkingen, overstortvoorzieningen, akoestische dempers en bijbehorende luchtkanalen, gelden de kwaliteitsnormen uit het Luka kwaliteitshandboek, laatste versie. De inwendige reinheid dient minimaal te voldoen aan Luka Reinheidsklasse Midden en dient bij gereedmelding door het montagebedrijf te worden aangetoond met een Luka Reinheidsrapport.
-
 Voor toe te passen luchtfilters geldt dat deze dienen te worden geselecteerd en geclassificeerd conform EN ISO 16890.
 
 Nieuwe ruimten dienen te worden voorzien van voldoende luchttoe- en afvoer. Dit houdt onder meer in dat tijdens gebruikstijd wordt uitgegaan van een CO₂-concentratie van maximaal 450 ppm boven de buitenlucht, een verse luchttoevoer van minimaal 40 m³/h per persoon of 5 m³/h per m², conform PvE Gezonde Kantoren 2021 kwaliteitsniveau B.
