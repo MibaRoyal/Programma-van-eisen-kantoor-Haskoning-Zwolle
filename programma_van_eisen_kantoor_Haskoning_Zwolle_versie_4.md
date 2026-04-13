@@ -3,7 +3,7 @@
 
 ### 1 Inleiding
 
-Dit document beschrijft de eisen aan de werktuigbouwkundige en elektrotechnische voorzieningen van kantoor Haskoning Zwolle. Het document is bedoeld als kwalitatief kader voor ontwerp, afstemming, aanbieding, uitvoering, controle en oplevering van de installaties binnen de gehuurde ruimten van het kantoorgebouw in Zwolle.
+Dit document bevat de eisen aan de werktuigbouwkundige en elektrotechnische voorzieningen van het toekomstige kantoor Haskoning Zwolle. Het document is bedoeld als kwalitatief kader voor ontwerp, afstemming, aanbieding, uitvoering, controle en oplevering van de installaties binnen de gehuurde ruimten van het kantoorgebouw in Zwolle.
 
 Dit programma van eisen is opgesteld op basis van het gebruikelijke kwaliteitsniveau voor Haskoning kantoren en het openbaar document Programma van Eisen Gezonde Kantoren 2021, opgesteld door consortium Platform Gezond Binnenklimaat. Voor kantoorgebonden eisen ten aanzien van lucht, thermisch comfort, licht en geluid is laatstgenoemd document leidend, uitgaande van kwaliteitsniveau B.
 
