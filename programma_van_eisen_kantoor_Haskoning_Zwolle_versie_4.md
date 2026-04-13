@@ -48,6 +48,8 @@ Voorzieningen voor de luchttoevoer:
 - moeten handmatig afsluitbaar zijn.
 
 #### 4.2 Klimaattechnische eisen
+[ik heb aangenomen dat het klimaatplafond voor koeling en verwarming zorgt, middels zes weg klep; CONTROLEREN]
+
 Per bouwdeel en per verdieping dienen de hoofdstromen van de energie (elektriciteit, koeling en verwarming) bemeterd, uitgelezen en inzichtelijk te worden gemaakt.
 
 Voor kantoorruimten en vergaderruimten geldt Gezonde Kantoren kwaliteitsniveau B voor binnenluchtkwaliteit en thermisch comfort, met name, een wintercomfort van minimaal 20 °C operatieve temperatuur en een zomercomfort van maximaal 26 °C operatieve temperatuur in ruimten met actieve koeling. Voor tocht en lokale behaaglijkheid geldt eveneens kwaliteitsniveau B. De hoeveelheid luchtverversing dient te worden bepaald conform NEN-EN 16798-3 en NEN 1087.
@@ -61,7 +63,6 @@ De nieuwe serverruimte dient te worden voorzien van voldoende koeling voor een b
 In de kantoorruimten gelden geen eisen aan de relatieve vochtigheid.
 
 #### 4.3 Sanitaire installatie
-
 De pantry en de kolfruimte dienen te worden voorzien van drinkwatertoevoer- en sanitaire afvoerleidingen. De sanitaire installatie dient zodanig te worden aangepast dat de gebruiksfuncties goed en storingsvrij kunnen functioneren. Installaties voor warm en koud tapwater dienen te worden uitgevoerd en beheerd conform ISSO 55.1, ISSO 55.2 en ISSO 55.3, NEN 1006, NEN 3215 en NTR 3216.
 
 Naast de standaard geldende eisen dient te worden voldaan aan eventuele aansluitvoorwaarden van het nutsbedrijf. Het leidingnet loopt vanaf de watermeter tot aan de sanitaire toestellen; de nieuwe leidingdelen dienen storingsvrij aan het bestaande leidingnet te worden gekoppeld. Aanpassingen aan het leidingnet dienen te worden geïnspecteerd vanuit oogpunt van legionella veiligheid; de bevindingen dienen als legionella beheersplan vastgelegd te worden.
@@ -71,7 +72,6 @@ Alle koudwaterleidingen dienen dampdicht te worden geïsoleerd. Leidingen die in
 Voor de warmwaterbereiding dient decentraal een warmwaterbereider te worden opgesteld. Alle verbruikstoestellen dienen afsluitbaar op het leidingstelsel aangesloten te worden.
 
 #### 4.4 Inspectie van het klimaatplafond
-
 Het bestaande klimaatplafond dient voorafgaand aan de ingebruikname van de nieuwe indeling te worden geïnspecteerd op correcte werking. Deze inspectie heeft tot doel om vast te stellen of de bestaande installatie correct functioneert. De inspectie van het klimaatplafond omvat ten minste een visuele controle, een functionele controle van de aangesloten regelorganen en een thermografische opname met een infraroodcamera.
 
 Met de infraroodcamera dient te worden vastgesteld of sprake is van een gelijkmatige en plausibele thermische werking van de actieve plafondvelden. Daarbij wordt beoordeeld of er afwijkende zones, koude of warme onderbrekingen, onregelmatige patronen, niet werkende velden of andere aanwijzingen voor verminderde werking aanwezig zijn.
