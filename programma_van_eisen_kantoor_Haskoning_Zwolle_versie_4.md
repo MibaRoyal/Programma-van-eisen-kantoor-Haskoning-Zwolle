@@ -31,6 +31,8 @@ De bestaande klimaatinstallatie met klimaatplafond blijft gehandhaafd. De bestaa
 De werktuigbouwkundige eisen zijn ontleend aan het openbaar document Programma van Eisen Gezonde Kantoren 2021; dat document bevat lucht- en klimaattechnische eisen, die hieronder ten dele zijn vermeld.
 
 #### 4.1 Eisen betreffende ventilatie
+[Gaan we variabele luchthoeveelheden in de vergaderruimten leveren? Zo ja, moet er een Total Cost of Ownership berekening worden uitgevoerd? Is een vaste luchtvolume toevoer in strijd met Paris Proof ideeen?]
+
 Voor nieuw aan te brengen of aan te passen delen van het ventilatiesysteem, waaronder aftakkingen, overstortvoorzieningen, akoestische dempers en bijbehorende luchtkanalen, gelden de kwaliteitsnormen uit het Luka kwaliteitshandboek, laatste versie. De inwendige reinheid dient minimaal te voldoen aan Luka Reinheidsklasse Midden en dient bij gereedmelding door het montagebedrijf te worden aangetoond met een Luka Reinheidsrapport.
 Voor toe te passen luchtfilters geldt dat deze dienen te worden geselecteerd en geclassificeerd conform EN ISO 16890.
 
