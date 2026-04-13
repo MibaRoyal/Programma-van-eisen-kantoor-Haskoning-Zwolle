@@ -34,7 +34,7 @@ De werktuigbouwkundige eisen zijn ontleend aan het openbaar document Programma v
 Voor nieuw aan te brengen of aan te passen delen van het ventilatiesysteem, waaronder aftakkingen, overstortvoorzieningen, akoestische dempers en bijbehorende luchtkanalen, gelden de kwaliteitsnormen uit het Luka kwaliteitshandboek, laatste versie. De inwendige reinheid dient minimaal te voldoen aan Luka Reinheidsklasse Midden en dient bij gereedmelding door het montagebedrijf te worden aangetoond met een Luka Reinheidsrapport.
 Voor toe te passen luchtfilters geldt dat deze dienen te worden geselecteerd en geclassificeerd conform EN ISO 16890.
 
-Nieuwe ruimten dienen te worden voorzien van voldoende luchttoe- en afvoer. Dit houdt onder meer in dat tijdens gebruikstijd wordt uitgegaan van een CO₂-concentratie van maximaal 450 ppm boven de buitenlucht, een verse luchttoevoer van minimaal 40 m³/h per persoon of 5 m³/h per m², conform PvE Gezonde Kantoren 2021 kwaliteitsniveau B.
+Nieuwe ruimten dienen te worden voorzien van voldoende luchttoe- en afvoer. Dit houdt onder meer in dat tijdens gebruikstijd wordt uitgegaan van een CO₂-concentratie van maximaal 450 ppm boven de buitenlucht (genomen als 400 ppm), resulterend in een verse luchttoevoer van minimaal 40 m³/h per persoon of 5 m³/h per m², conform PvE Gezonde Kantoren 2021 kwaliteitsniveau B.
 
 Aan nieuwe delen van het ventilatiesysteem worden de volgende eisen gesteld: 
 - Er mag geen inwendige isolatie van kanalen toegepast;  
