@@ -58,7 +58,7 @@ Bestaande ventilatiehoeveelheden, temperatuurregeling, tocht, geluidsproductie e
 De nieuwe serverruimte dient te worden voorzien van voldoende koeling voor een betrouwbare werking van de aanwezige apparatuur. Indien de bestaande klimaatvoorziening voor deze ruimte ontoereikend blijkt, dient aanvullend te worden aangetoond hoe de warmtebelasting van de apparatuur wordt afgevoerd. De relatieve luchtvochtigheid in de serverruimte dient te voldoen aan de eisen van de leverancier van de netwerkapparatuur.
 
 #### 4.3 Meet- en regeltechniek, gebouwautomatisering
-[We sluiten aan op bestaand, wat is het bestaand, is smart building vereist]
+[We sluiten aan op bestaand, wat is het bestaand, is smart building vereist, bijvoorbeeld verlichting dimmen bij daglicht, Thijs stuurt een voorbeeld]
 
 Voor kantoorruimten en vergaderruimten geldt Gezonde Kantoren kwaliteitsniveau B voor binnenluchtkwaliteit en thermisch comfort, met name, een wintercomfort van minimaal 20 °C operatieve temperatuur en een zomercomfort van maximaal 26 °C operatieve temperatuur in ruimten met actieve koeling. Voor tocht en lokale behaaglijkheid geldt eveneens kwaliteitsniveau B. De hoeveelheid luchtverversing dient te worden bepaald conform NEN-EN 16798-3 en NEN 1087.
 
