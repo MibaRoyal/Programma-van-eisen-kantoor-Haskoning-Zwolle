@@ -12,7 +12,6 @@ Dit programma van eisen is opgesteld op basis van het gebruikelijke kwaliteitsni
 Het nieuwe kantoor van Haskoning in Zwolle bevindt zich op twee verdiepingen van het bestaande gebouw The City Post Building en omvat circa 950 m² kantoorruimte. Daarnaast wordt op de begane grond een afzonderlijke ruimte gehuurd die wordt ingericht als grote overlegruimte (I-room). Dit programma omvat 52 werkplekken, 2 vergaderruimten voor maximaal 12 personen, kleinere overlegplekken, een pantry, een serverruimte, een kolfruimte en een opslagruimte.
 
 ### 3 Algemene eisen van het project
-
 Op het ontwerp en de uitvoering zijn de geldende wet- en regelgeving en de daaruit voortvloeiende normen en richtlijnen van toepassing, waaronder ten minste het Nieuw Burgerlijk Wetboek, gemeentelijke bouwverordeningen, voorschriften van de Veiligheidsregio, relevante publicaties van de Nederlandse Brandweer Federatie, de WABO, VEWIN-richtlijnen, het Waterleidingbesluit en geldende ISSO publicaties, alsmede de in Nederland geldige normen en technische richtlijnen.
 
 Voor kantoor Zwolle is de Paris Proof ambitie richtinggevend, waardoor het werkelijke energiegebruik van de huurderinstallaties en de relevante gebouwinstallaties inzichtelijk dient te worden gemaakt.
@@ -54,13 +53,16 @@ Voorzieningen voor de luchttoevoer:
 
 Per bouwdeel en per verdieping dienen de hoofdstromen van de energie (elektriciteit, koeling en verwarming) bemeterd, uitgelezen en inzichtelijk te worden gemaakt.
 
-Voor kantoorruimten en vergaderruimten geldt Gezonde Kantoren kwaliteitsniveau B voor binnenluchtkwaliteit en thermisch comfort, met name, een wintercomfort van minimaal 20 °C operatieve temperatuur en een zomercomfort van maximaal 26 °C operatieve temperatuur in ruimten met actieve koeling. Voor tocht en lokale behaaglijkheid geldt eveneens kwaliteitsniveau B. De hoeveelheid luchtverversing dient te worden bepaald conform NEN-EN 16798-3 en NEN 1087.
-
 Bestaande ventilatiehoeveelheden, temperatuurregeling, tocht, geluidsproductie en lokale behaaglijkheid dienen met controlemetingen of berekeningen te worden getoetst. Indien uit deze verificatie blijkt dat kwaliteitsniveau B niet wordt gehaald, dienen binnen de projectscope gerichte aanpassingen te worden uitgewerkt.
 
-Voor de gesloten werkplekken en de vergaderruimten zijn de actieve componenten voor verwarming in het stookseizoen op vertrekniveau handmatig na te regelen met min. +/- 2 °C rond een standaard setpoint van 21 °C. De aanwezige actieve componenten voor koeling en/of buitenzonweringsvoorzieningen zijn op vertrekniveau handmatig na te regelen. In het eerste geval met een bandbreedte van minimaal 2 °C rond een standaards setpoint van 24,5°C. Met de bedienunit is de temperatuur met voldoende 'snelheid' te beïnvloeden: temperatuureffect minimaal 1°C per half uur na verstelling.
-
 De nieuwe serverruimte dient te worden voorzien van voldoende koeling voor een betrouwbare werking van de aanwezige apparatuur. Indien de bestaande klimaatvoorziening voor deze ruimte ontoereikend blijkt, dient aanvullend te worden aangetoond hoe de warmtebelasting van de apparatuur wordt afgevoerd. De relatieve luchtvochtigheid in de serverruimte dient te voldoen aan de eisen van de leverancier van de netwerkapparatuur.
+
+#### 4.3 Meet- en regeltechniek, gebouwautomatisering
+[We sluiten aan op bestaand, wat is het bestaand, is smart building vereist]
+
+Voor kantoorruimten en vergaderruimten geldt Gezonde Kantoren kwaliteitsniveau B voor binnenluchtkwaliteit en thermisch comfort, met name, een wintercomfort van minimaal 20 °C operatieve temperatuur en een zomercomfort van maximaal 26 °C operatieve temperatuur in ruimten met actieve koeling. Voor tocht en lokale behaaglijkheid geldt eveneens kwaliteitsniveau B. De hoeveelheid luchtverversing dient te worden bepaald conform NEN-EN 16798-3 en NEN 1087.
+
+Voor de gesloten werkplekken en de vergaderruimten zijn de actieve componenten voor verwarming in het stookseizoen op vertrekniveau handmatig na te regelen met min. +/- 2 °C rond een standaard setpoint van 21 °C. De aanwezige actieve componenten voor koeling en/of buitenzonweringsvoorzieningen zijn op vertrekniveau handmatig na te regelen. In het eerste geval met een bandbreedte van minimaal 2 °C rond een standaards setpoint van 24,5°C. Met de bedienunit is de temperatuur met voldoende 'snelheid' te beïnvloeden: temperatuureffect minimaal 1°C per half uur na verstelling. 
 
 In de kantoorruimten gelden geen eisen aan de relatieve vochtigheid.
 
