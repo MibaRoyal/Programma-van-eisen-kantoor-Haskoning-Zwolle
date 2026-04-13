@@ -159,21 +159,22 @@ Van de bestaande brandveiligheidsvoorzieningen dient door inspectie en functione
 
 ### 7 Licht, geluid en bestaande veiligheidsvoorzieningen
 
-Voor licht en geluid in kantoorruimten wordt kwaliteitsniveau B van het Programma van Eisen Gezonde Kantoren 2021 als functioneel uitgangspunt gehanteerd. Tijdens het ontwerp dient met verlichtingsberekeningen, geluidsmetingen of comfortmetingen te worden aangetoond dat kwaliteitsniveau B van het PvE Gezonde Kantoren wordt gehaald. De zonwering wordt niet aangepast.
+Voor licht en geluid in kantoorruimten wordt kwaliteitsniveau B van het Programma van Eisen Gezonde Kantoren 2021 als functioneel uitgangspunt gehanteerd. Tijdens het ontwerp dient met verlichtingsberekeningen, geluidsmetingen of comfortmetingen te worden aangetoond dat kwaliteitsniveau B van het PvE Gezonde Kantoren wordt gehaald. De zonwering wordt niet aangepast. 
+
+[gaat collega Ruoyu de geluids eisen vastleggen?]
 
 De bestaande aanwezigheidsdetectie blijft gehandhaafd. De bestaande verlichtingsregeling wordt niet gewijzigd, tenzij dit noodzakelijk blijkt als direct gevolg van de nieuwe indeling of als onderdeel van een beperkte inregelhandeling.
 
-Bestaande beveiligingsinstallaties, specifiek: 
+Bestaande beveiligingsinstallaties, specifiek: [heeft het gebouw al die systemen?]
 - Inbraakmeldinstallatie 
 - Toegangsbeheerinstallatie 
 - Observatie installatie 
-- Intercom installatie 
 - Mindervalidetoilet signalering
 - Noodverlichting
 - Vluchtrouteaanduiding
 - Ontruimingsinstallatie
 
-dienen conform onderstaande richtlijnen te zijn getoetst:
+dienen conform onderstaande richtlijnen te zijn gecontroleerd:
 - NEN-EN 1838 Noodverlichting
 - NEN 3011 Veiligheidskleuren- en tekens in de werkomgeving en in de openbare ruimte
 - Bouwbesluit; 
@@ -181,7 +182,6 @@ dienen conform onderstaande richtlijnen te zijn getoetst:
 Bij aantonen van conformiteit kunnen deze voorzieningen zonder meer worden gehandhaafd.
 
 ### 8 Controle en oplevering
-
 Na afronding van de werkzaamheden levert de installateur alle relevante technische documenten, revisietekeningen en productgegevens aan. De installaties worden deugdelijk getest, ingeregeld en gebruiksklaar opgeleverd.
 
 Voor de bestaande installaties die gehandhaafd blijven, dienen de vereiste inspecties, berekeningen en metingen te worden uitgevoerd om aan te tonen dat aan de beoogde prestaties wordt voldaan. Dit geldt in het bijzonder voor ventilatie, thermisch comfort, geluid, verlichting, brandveiligheidsvoorzieningen en de condities in de serverruimte.
