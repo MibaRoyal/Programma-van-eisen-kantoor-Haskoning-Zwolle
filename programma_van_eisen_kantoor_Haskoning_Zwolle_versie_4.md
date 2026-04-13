@@ -36,6 +36,8 @@ Voor toe te passen luchtfilters geldt dat deze dienen te worden geselecteerd en 
 
 Nieuwe ruimten dienen te worden voorzien van voldoende luchttoe- en afvoer. Dit houdt onder meer in dat tijdens gebruikstijd wordt uitgegaan van een CO₂-concentratie van maximaal 450 ppm boven de buitenlucht (genomen als 400 ppm), resulterend in een verse luchttoevoer van minimaal 40 m³/h per persoon of 5 m³/h per m², conform PvE Gezonde Kantoren 2021 kwaliteitsniveau B.
 
+[reservecapaciteit 20%]
+
 Aan nieuwe delen van het ventilatiesysteem worden de volgende eisen gesteld: 
 - Er mag geen inwendige isolatie van kanalen toegepast;  
 - De luchtdichtheid van de kanalen dient te voldoen aan klasse B van de NEN-EN 1507 en de NEN-EN 12237;  
@@ -46,16 +48,17 @@ Voorzieningen voor de luchttoevoer:
 - moeten handmatig afsluitbaar zijn.
 
 #### 4.2 Klimaattechnische eisen
-
 Per bouwdeel en per verdieping dienen de hoofdstromen van de energie (elektriciteit, koeling en verwarming) bemeterd, uitgelezen en inzichtelijk te worden gemaakt.
 
-Voor kantoorruimten en vergaderruimten geldt kwaliteitsniveau B voor binnenluchtkwaliteit en thermisch comfort, met name, een wintercomfort van minimaal 20 °C operatieve temperatuur en een zomercomfort van maximaal 26 °C operatieve temperatuur in ruimten met actieve koeling. Voor tocht en lokale behaaglijkheid geldt eveneens kwaliteitsniveau B. De hoeveelheid luchtverversing dient te worden bepaald conform NEN-EN 16798-3 en NEN 1087.
+Voor kantoorruimten en vergaderruimten geldt Gezonde Kantoren kwaliteitsniveau B voor binnenluchtkwaliteit en thermisch comfort, met name, een wintercomfort van minimaal 20 °C operatieve temperatuur en een zomercomfort van maximaal 26 °C operatieve temperatuur in ruimten met actieve koeling. Voor tocht en lokale behaaglijkheid geldt eveneens kwaliteitsniveau B. De hoeveelheid luchtverversing dient te worden bepaald conform NEN-EN 16798-3 en NEN 1087.
 
 Bestaande ventilatiehoeveelheden, temperatuurregeling, tocht, geluidsproductie en lokale behaaglijkheid dienen met controlemetingen of berekeningen te worden getoetst. Indien uit deze verificatie blijkt dat kwaliteitsniveau B niet wordt gehaald, dienen binnen de projectscope gerichte aanpassingen te worden uitgewerkt.
 
 Voor de gesloten werkplekken en de vergaderruimten zijn de actieve componenten voor verwarming in het stookseizoen op vertrekniveau handmatig na te regelen met min. +/- 2 °C rond een standaard setpoint van 21 °C. De aanwezige actieve componenten voor koeling en/of buitenzonweringsvoorzieningen zijn op vertrekniveau handmatig na te regelen. In het eerste geval met een bandbreedte van minimaal 2 °C rond een standaards setpoint van 24,5°C. Met de bedienunit is de temperatuur met voldoende 'snelheid' te beïnvloeden: temperatuureffect minimaal 1°C per half uur na verstelling.
 
 De nieuwe serverruimte dient te worden voorzien van voldoende koeling voor een betrouwbare werking van de aanwezige apparatuur. Indien de bestaande klimaatvoorziening voor deze ruimte ontoereikend blijkt, dient aanvullend te worden aangetoond hoe de warmtebelasting van de apparatuur wordt afgevoerd. De relatieve luchtvochtigheid in de serverruimte dient te voldoen aan de eisen van de leverancier van de netwerkapparatuur.
+
+In de kantoorruimten gelden geen eisen aan de relatieve vochtigheid.
 
 #### 4.3 Sanitaire installatie
 
