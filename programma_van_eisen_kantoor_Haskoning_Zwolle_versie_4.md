@@ -13,7 +13,7 @@ Het nieuwe kantoor van Haskoning in Zwolle bevindt zich op twee verdiepingen van
 
 ### 3 Algemene eisen van het project
 
-Op het ontwerp en de uitvoering zijn de geldende wet- en regelgeving en de daaruit voortvloeiende normen en richtlijnen van toepassing, waaronder ten minste het Nieuw Burgerlijk Wetboek, gemeentelijke bouwverordeningen, voorschriften van de Veiligheidsregio, relevante publicaties van de Nederlandse Brandweer Federatie, de WABO, VEWIN-richtlijnen, het Waterleidingbesluit, SCIOS en van toepassing zijnde KOMO-certificaten.
+Op het ontwerp en de uitvoering zijn de geldende wet- en regelgeving en de daaruit voortvloeiende normen en richtlijnen van toepassing, waaronder ten minste het Nieuw Burgerlijk Wetboek, gemeentelijke bouwverordeningen, voorschriften van de Veiligheidsregio, relevante publicaties van de Nederlandse Brandweer Federatie, de WABO, VEWIN-richtlijnen, het Waterleidingbesluit en geldende ISSO publicaties, alsmede de in Nederland geldige normen en technische richtlijnen.
 
 Voor kantoor Zwolle is de Paris Proof ambitie richtinggevend, waardoor het werkelijke energiegebruik van de huurderinstallaties en de relevante gebouwinstallaties inzichtelijk dient te worden gemaakt.
 
@@ -21,7 +21,7 @@ Bij de aanpassingen van de installaties dient rekening te worden gehouden met do
 
 Nieuwe voorzieningen, zoals beeldschermen, vergaderapparatuur, noodstroomvoorzieningen, netwerkpunten en werkplekaansluitingen, moeten worden geselecteerd en aangesloten zodat het toegevoegde energiegebruik wordt beperkt. Waar mogelijk worden energiezuinige apparatuur, doelmatige schakeling en beperkte stand-by vermogens toegepast.
 
-Het project wordt gerealiseerd in een bestaand gebouw met aanwezige installaties en beperkte ingreepmogelijkheden. Binnen die randvoorwaarden geldt dat bestaande, goed functionerende installaties zoveel mogelijk worden behouden. Dit uitgangspunt voorkomt onnodige vervanging en beperkt de kosten van het project.
+Het project wordt gerealiseerd in een bestaand gebouw met aanwezige centrale installaties en beperkte ingreepmogelijkheden. Binnen die randvoorwaarden geldt dat bestaande, goed functionerende installaties zoveel mogelijk worden behouden. Dit uitgangspunt voorkomt onnodige vervanging en beperkt de kosten van het project. De centrale installatie blijft gehandhaafd; de uitbreidingen en aanpassingen dienen hier rekening mee te houden.
 
 In het gebouw zijn installaties aanwezig die zoveel mogelijk gehandhaafd blijven, zoals: kabelgoten, verlichtingsinstallaties met aanwezigheidsdetectie en brandmelders. Het klimaatplafond is uitgevoerd als eilandplafond waarin ventilatie, verlichting en klimaattechniek zijn geïntegreerd. Vooraf en tijdens het ontwerp dienen controleberekeningen, inspecties en metingen betreffende de bestaande installaties te worden uitgevoerd, zoals hieronder beschreven.
 
