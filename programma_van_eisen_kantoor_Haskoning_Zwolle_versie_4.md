@@ -64,7 +64,7 @@ In de kantoorruimten gelden geen eisen aan de relatieve vochtigheid.
 
 De pantry en de kolfruimte dienen te worden voorzien van drinkwatertoevoer- en sanitaire afvoerleidingen. De sanitaire installatie dient zodanig te worden aangepast dat de gebruiksfuncties goed en storingsvrij kunnen functioneren. Installaties voor warm en koud tapwater dienen te worden uitgevoerd en beheerd conform ISSO 55.1, ISSO 55.2 en ISSO 55.3, NEN 1006, NEN 3215 en NTR 3216.
 
-Naast de standaard geldende eisen dient te worden voldaan aan eventuele aansluitvoorwaarden van het nutsbedrijf. Het leidingnet loopt vanaf de watermeter tot aan de sanitaire toestellen; de nieuwe leidingdelen dienen storingsvrij aan het bestaande leidingnet te worden gekoppeld. Aanpassingen aan het leidingnet dienen te worden geïnspecteerd vanuit oogpunt van legionella veiligheid; de bevindingen dienen in het legionella beheersplan verwerkt te worden.
+Naast de standaard geldende eisen dient te worden voldaan aan eventuele aansluitvoorwaarden van het nutsbedrijf. Het leidingnet loopt vanaf de watermeter tot aan de sanitaire toestellen; de nieuwe leidingdelen dienen storingsvrij aan het bestaande leidingnet te worden gekoppeld. Aanpassingen aan het leidingnet dienen te worden geïnspecteerd vanuit oogpunt van legionella veiligheid; de bevindingen dienen als legionella beheersplan vastgelegd te worden.
 
 Alle koudwaterleidingen dienen dampdicht te worden geïsoleerd. Leidingen die in bouwkundige constructies worden weggewerkt, dienen te worden beschermd met een beschermmantel. Verbindingen in bouwkundige constructies zijn niet toegestaan.
 
