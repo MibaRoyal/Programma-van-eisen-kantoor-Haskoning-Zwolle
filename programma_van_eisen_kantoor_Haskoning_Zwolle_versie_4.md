@@ -109,14 +109,11 @@ De bekabeling voor de voeding van contactdozen 230V, alsmede zwakstroom-, beveil
 
 [Voor alle niet direct aan de gevel gelegen bureau-eilanden moet in de vloer een kanalisatie worden aangebracht, uitkomend op een vloerdoos. De vloerdoos dient per werkplek een tweevoudige contactdoos te bevatten. Afwerking vloerdoos dient in lijn met de vloer afwerking, en in overleg met architect, te worden gekozen.]
 
-Alle nieuw aan te brengen kabels dienen halogeenvrij en moeilijk brandbaar te zijn conform NEN 8012, minimaal klasse Dca-s3,d2,a3. De toegepaste klasse dient te worden vermeld op de revisietekening of in een vergelijkbaar ontwerpdocument.
-
 Ieder bureau-eiland wordt voorzien van een elektrische aansluiting in de nabijgelegen wandgoot, per maximaal vier werkplekken één aansluiting. Vanuit dit aansluitpunt dienen per bureau-eilandopstelling de contactdozen 230V te worden gevoed. Contactdozen 230V mogen binnen elke bureau-eilandopstelling worden doorgelust.
 
 Op ieder bureau dient een dubbele contactdoos 230V aangebracht te worden ten behoeve van werkplekvoorzieningen.
 
-
-De data-aansluitingen ten behoeve van WiFi en bijbehorende verbinding met de serverkast dienen te worden voorzien van een eenduidige codering. Zowel het punt in het veld als de bijbehorende aansluiting in de serverkast worden overeenkomstig gelabeld. De WiFi routers worden door Haskoning geleverd.
+Alle nieuw aan te brengen kabels dienen halogeenvrij en moeilijk brandbaar te zijn, conform NEN 8012, minimaal klasse Dca-s3,d2,a3. De toegepaste klasse dient te worden vermeld op de revisietekening of in een vergelijkbaar ontwerpdocument.
 
 #### Overige ruimten 
 De twee grote vergaderruimten op de eerste verdieping worden voorzien van een digitaal beeldscherm en een vergaderapparaat.
@@ -133,11 +130,14 @@ De te gebruiken databekabeling dient minimaal Cat6A kwaliteit te zijn, in UTP-ui
 
 De pantry wordt uitgerust met een vaatwasser, een koelkast, twee koffiezetautomaten en een Quooker heetwaterapparaat. Deze apparaten worden met aparte groepen van voldoende vermogen op veilige en onderhoudbare wijze ontsloten vanuit de verdeelkast op de eerste verdieping.
 
-#### 5.1 Serverruimte, beveiliging en brandveiligheid
+#### Serverruimte
+De data-aansluitingen ten behoeve van WiFi en bijbehorende verbinding met de serverkast dienen te worden voorzien van een eenduidige codering. Zowel het punt in het veld als de bijbehorende aansluiting in de serverkast worden overeenkomstig gelabeld. De WiFi routers worden door Haskoning geleverd.
 
 De nieuw te realiseren serverruimte wordt ingericht met vrijstaande 19" kasten, geleverd door Haskoning. Voor deze ruimte dienen twee afzonderlijke elektrische voedingsgroepen te worden aangebracht. Patchpanelen en alle bekabeling dienen in de serverruimte overzichtelijk, geordend en duidelijk gelabeld te worden gemonteerd en afgewerkt.
 
 De definitieve labelstructuur voor de bekabeling en patchpanelen wordt voorafgaand aan de uitvoering vastgesteld in samenspraak met  Haskoning. Zonder een vastgestelde coderingssystematiek mag geen definitieve labeling worden aangebracht.
+
+#### Toegangsbeveiliging
 
 Voor de overgangen tussen publieksgebieden en niet-publieksgebieden wordt gebruik gemaakt van een geautoriseerd toegangscontrolesysteem. De toegangscontrole tot ruimten in niet-publieksgebieden wordt, afhankelijk van de bijzonderheid van de ruimte, uitgevoerd met een geautoriseerd toegangscontrolesysteem of een elektronische cilinder.
 
