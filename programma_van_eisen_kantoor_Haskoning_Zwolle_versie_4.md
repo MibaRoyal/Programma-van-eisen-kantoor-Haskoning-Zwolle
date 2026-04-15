@@ -20,7 +20,7 @@ Bij de aanpassingen van de installaties dient rekening te worden gehouden met do
 
 Nieuwe voorzieningen, zoals beeldschermen, vergaderapparatuur, noodstroomvoorzieningen, netwerkpunten en werkplekaansluitingen, moeten worden geselecteerd en aangesloten zodat het toegevoegde energiegebruik wordt beperkt. Waar mogelijk worden energiezuinige apparatuur, doelmatige schakeling en beperkte stand-by vermogens toegepast.
 
-Het project wordt gerealiseerd in een bestaand gebouw met aanwezige centrale installaties en beperkte ingreepmogelijkheden. Binnen die randvoorwaarden geldt dat bestaande goed functionerende installaties zoveel mogelijk worden behouden. Dit uitgangspunt voorkomt onnodige vervanging en beperkt de kosten van het project. De centrale installatie blijft zoveel mogelijk gehandhaafd; bij uitbreidingen en aanpassingen dienen hier rekening mee gehouden te worden.
+Het project wordt gerealiseerd in een bestaand gebouw met aanwezige centrale installaties en beperkte ingreepmogelijkheden. Binnen die randvoorwaarden geldt dat bestaande, goed functionerende installaties zoveel mogelijk worden behouden. Dit uitgangspunt voorkomt onnodige vervanging en beperkt de kosten van het project. De centrale installatie blijft gehandhaafd; de uitbreidingen en aanpassingen dienen hier rekening mee te houden.
 
 In het gebouw zijn installaties aanwezig die zoveel mogelijk gehandhaafd blijven, zoals: kabelgoten, verlichtingsinstallaties met aanwezigheidsdetectie en brandmelders. Het klimaatplafond is uitgevoerd als eilandplafond waarin ventilatie, verlichting en klimaattechniek zijn geïntegreerd. Vooraf en tijdens het ontwerp dienen controleberekeningen, inspecties en metingen betreffende de bestaande installaties te worden uitgevoerd, zoals hieronder beschreven.
 
