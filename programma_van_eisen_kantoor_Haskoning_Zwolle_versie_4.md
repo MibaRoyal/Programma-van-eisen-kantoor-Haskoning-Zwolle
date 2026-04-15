@@ -119,11 +119,14 @@ Alle nieuw aan te brengen kabels dienen halogeenvrij en moeilijk brandbaar te zi
 
 Ieder bureau-eiland wordt voorzien van een elektrische aansluiting in de nabijgelegen wandgoot, per maximaal vier werkplekken één aansluiting. Vanuit dit aansluitpunt dienen per bureau-eilandopstelling de contactdozen 230V te worden gevoed. Contactdozen 230V mogen binnen elke bureau-eilandopstelling worden doorgelust.
 
-Op ieder bureau wordt een dubbele contactdoos 230V aangebracht ten behoeve van werkplekvoorzieningen.
+Op ieder bureau dient een dubbele contactdoos 230V aangebracht te worden ten behoeve van werkplekvoorzieningen.
 
-De twee grote vergaderruimten op de eerste verdieping worden voorzien van een digitaal beeldscherm en een vergadervoorziening. Per ruimte dienen contactdozen 230V te worden aangebracht bij het beeldscherm en de vergaderapparatuur, alsmede contactdozen 230V op of bij de vergadertafel. Tussen tafel en beeldscherm dient een voorziening te worden aangebracht voor het geleiden van de bekabeling.
+#### Overige ruimten 
+De twee grote vergaderruimten op de eerste verdieping worden voorzien van een digitaal beeldscherm en een vergaderapparaat.
 
-De kleinere overlegplekken en informele ontmoetingsruimten naast de pantry worden voorzien van een monitor met aansluitmogelijkheid voor laptops. Hiervoor dienen de benodigde contactdozen 230V en audiovisuele aansluitingen te worden aangebracht.
+Per ruimte dienen contactdozen 230V te worden aangebracht bij het beeldscherm en de vergaderapparatuur, alsmede contactdozen 230V op of bij de vergadertafel. Tussen tafel en beeldscherm dient een voorziening te worden aangebracht voor het geleiden van de bekabeling.
+
+De kleinere overlegplekken en informele ontmoetingsruimten naast de pantry worden voorzien van een monitor met aansluitmogelijkheid voor laptops. Hiervoor dient per informele tafel twee contactdzen 230V te worden aangebracht.
 
 De presentatieruimte op de begane grond wordt voorzien van de noodzakelijke aansluitpunten voor beeldscherm, geluidsvoorziening, camera en laptopaansluiting voor presentaties. Tussen de audiovisuele apparaten en de laptoppositie worden ledige buisvoorzieningen aangebracht.
 
