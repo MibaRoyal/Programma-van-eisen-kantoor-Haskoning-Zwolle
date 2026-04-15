@@ -88,49 +88,56 @@ Indien afwijkingen worden vastgesteld, wordt beoordeeld welke herstelwerkzaamhed
 
 ### 5 Elektrotechnische eisen
 
-De bestaande elektrotechnische installatie dienen zoveel mogelijk te worden gehandhaafd. Aanvullingen zijn toegestaan waar dit noodzakelijk is voor een toegankelijke, veilige en onderhoudbare ontsluiting van werkplekken, vergaderruimten, de presentatieruimte, de serverruimte en de ondersteunende ruimten. De aansluitpunten worden aangebracht op posities volgens de ontwerptekening Haskoning.
+De bestaande elektrotechnische installatie dienen zoveel mogelijk te worden gehandhaafd. Aanvullingen zijn toegestaan waar dit noodzakelijk is voor een toegankelijke, veilige en onderhoudbare ontsluiting van werkplekken, vergaderruimten, de presentatieruimte, de serverruimte en de ondersteunende ruimten.
 
-De veilige en correcte werking van de bestaande elektrotechnische installatie dient te worden geïnspecteerd en getoetst conform NEN 1010 en NEN 3140; inspectierapportage dient aan Haskoning te worden meegedeeld.
+De veilige en correcte werking van de bestaande elektrotechnische installatie dient te worden geïnspecteerd en getoetst conform NEN 1010 en NEN 3140; inspectierapportage dient aan opdrachtgever te worden verstrekt.
 
-Alle aanpassingen of wijzigingen van de bestaande installatie dienen in overleg met de installatieverantwoordelijke doorgenomen te worden voordat met de werkzaamheden gestart mag worden. De installatieverantwoordelijke dient zijn goedkeuring te geven. Specifiek:
+Alle aanpassingen of wijzigingen van de bestaande installatie dienen in overleg met de installatieverantwoordelijke doorgenomen te worden, voordat met de werkzaamheden gestart mag worden. De installatieverantwoordelijke dient zijn goedkeuring te geven. Specifiek:
 - De selectiviteit in de installatie dient altijd gewaarborgd te blijven.
 - Er dient een kortsluitvastheidsberekening aangeleverd te worden.
 - Er dienen kabelberekeningen te worden gemaakt van de nieuw aangelegde bekabeling.
-- Het distributienet moet een minimale reservecapaciteit hebben van 20%
 
-De geselecteerde producten, apparaten of componenten dienen dusdanig gekozen te worden dat bij noodzakelijke vervanging van een element men niet gedwongen is, om vanuit technische of esthetische overwegingen (eenheid bewaren), meerdere elementen te vervangen tot 15 jaar na installatie.
+Het distributienet en de infrastructuur waarin de bekabeling wordt ondergebracht moet een minimale reservecapaciteit hebben van 20%; geconstateerde afwijkingen dienen aan de opdrachtgever voorgelegd te worden.
 
-De huidige opstelling van de belangrijkste installatiecomponenten in een beperkt aantal ruimten en kasten dient, gelet op onderhoud en schaalvoordeel, zoveel mogelijk te worden gehandhaafd.
+Voor het onderbrengen van de bekabeling dient gebruik te worden gemaakt van kabelgoten, wandgoten en vloergoten. Draadkorf kabeldraagsystemen mogen niet worden toegepast.
 
-In de open kantoorruimte worden aanvullende kabelgoten, contactdozen 230V en data-aansluitingen geïnstalleerd ten behoeve van voldoende ontsluiting van de bureau-eilanden.
+In de open kantoorruimte dienen aanvullende kabelgoten, contactdozen 230V en data-aansluitingen geïnstalleerd te worden ten behoeve van voldoende ontsluiting van de bureau-eilanden.
 
-Voor het onderbrengen van de bekabeling dient gebruik te worden gemaakt van kabelgoten, wandgoten en vloergoten. De bekabeling voor de voeding van contactdozen 230V, alsmede zwakstroom-, beveiligings- en communicatie-installaties, mag in gezamenlijke infrastructurele voorzieningen worden ondergebracht indien dit de verschillende installaties niet nadelig beïnvloedt.
+De bekabeling voor de voeding van contactdozen 230V, alsmede zwakstroom-, beveiligings- en communicatie-installaties, mag in gezamenlijke infrastructurele voorzieningen worden ondergebracht indien dit de verschillende installaties niet nadelig beïnvloedt.
 
-De infrastructuur waarin de bekabeling wordt ondergebracht dient een totale reservecapaciteit van 25% te hebben. Draadkorf kabeldraagsystemen mogen niet worden toegepast.
+[is it possible to install floor boxes? is the finishing layer of the concrete floor thick enough?]
 
-De toegepaste kabels, bedrading en kunststofbuizen dienen halogeenvrij en moeilijk brandbaar te zijn conform NEN 8012, minimaal klasse Dca-s3,d2,a3. De toegepaste klasse dient te worden vermeld op de revisietekening of in een vergelijkbaar ontwerpdocument.
+[Voor alle niet direct aan de gevel gelegen bureau-eilanden moet in de vloer een kanalisatie worden aangebracht, uitkomend op een vloerdoos. De vloerdoos dient per werkplek een tweevoudige contactdoos te bevatten. Afwerking vloerdoos dient in lijn met de vloer afwerking, en in overleg met architect, te worden gekozen.]
 
-Ieder bureau-eiland wordt voorzien van een elektrische aansluiting in de nabijgelegen wandgoot. Vanuit dit aansluitpunt dienen per bureau-eilandopstelling de contactdozen 230V te worden gevoed. Op ieder bureau wordt een dubbele contactdoos 230V aangebracht ten behoeve van werkplekvoorzieningen. Contactdozen 230V mogen binnen elke bureau-eilandopstelling worden doorgelust.
+Ieder bureau-eiland wordt voorzien van een elektrische aansluiting in de nabijgelegen wandgoot, per maximaal vier werkplekken één aansluiting. Vanuit dit aansluitpunt dienen per bureau-eilandopstelling de contactdozen 230V te worden gevoed. Contactdozen 230V mogen binnen elke bureau-eilandopstelling worden doorgelust.
 
-De twee grote vergaderruimten op de eerste verdieping worden voorzien van een digitaal beeldscherm en een vergadervoorziening. Per ruimte dienen contactdozen 230V te worden aangebracht bij het beeldscherm en de vergaderapparatuur, alsmede contactdozen 230V op of bij de vergadertafel. Tussen tafel en beeldscherm dient een voorziening te worden aangebracht voor het geleiden van de bekabeling.
+Op ieder bureau dient een dubbele contactdoos 230V aangebracht te worden ten behoeve van werkplekvoorzieningen.
 
-De kleinere overlegplekken en informele ontmoetingsruimten naast de pantry worden voorzien van een monitor met aansluitmogelijkheid voor laptops. Hiervoor dienen de benodigde contactdozen 230V en audiovisuele aansluitingen te worden aangebracht.
+Alle nieuw aan te brengen kabels dienen halogeenvrij en moeilijk brandbaar te zijn, conform NEN 8012, minimaal klasse Dca-s3,d2,a3. De toegepaste klasse dient te worden vermeld op de revisietekening of in een vergelijkbaar ontwerpdocument.
+
+#### Overige ruimten 
+De twee grote vergaderruimten op de eerste verdieping worden voorzien van een digitaal beeldscherm en een vergaderapparaat.
+
+Per ruimte dienen contactdozen 230V te worden aangebracht bij het beeldscherm en de vergaderapparatuur, alsmede contactdozen 230V op of bij de vergadertafel. Tussen tafel en beeldscherm dient een voorziening te worden aangebracht voor het geleiden van de bekabeling.
+
+De kleinere overlegplekken en informele ontmoetingsruimten naast de pantry worden voorzien van een monitor met aansluitmogelijkheid voor laptops. Hiervoor dient per informele tafel twee contactdzen 230V te worden aangebracht.
 
 De presentatieruimte op de begane grond wordt voorzien van de noodzakelijke aansluitpunten voor beeldscherm, geluidsvoorziening, camera en laptopaansluiting voor presentaties. Tussen de audiovisuele apparaten en de laptoppositie worden ledige buisvoorzieningen aangebracht.
 
 De telefooncellen dienen elektrisch te worden aangesloten via het plafond, in afstemming met de eisen van de leverancier en met oog op een nette integratie in het plafondbeeld.
 
-De data-aansluitingen ten behoeve van WiFi dienen conform ontwerptekening te worden geplaatst. De aansluitingen van genoemde netwerkpunten en serverkast worden voorzien van een eenduidige codering. Zowel het punt in het veld als de bijbehorende aansluiting in de serverkast worden overeenkomstig gelabeld. De WiFi routers worden door Haskoning geleverd.
-
 De te gebruiken databekabeling dient minimaal Cat6A kwaliteit te zijn, in UTP-uitvoering.
 
 De pantry wordt uitgerust met een vaatwasser, een koelkast, twee koffiezetautomaten en een Quooker heetwaterapparaat. Deze apparaten worden met aparte groepen van voldoende vermogen op veilige en onderhoudbare wijze ontsloten vanuit de verdeelkast op de eerste verdieping.
 
-#### 5.1 Serverruimte, beveiliging en brandveiligheid
+#### Serverruimte
+De data-aansluitingen ten behoeve van WiFi en bijbehorende verbinding met de serverkast dienen te worden voorzien van een eenduidige codering. Zowel het punt in het veld als de bijbehorende aansluiting in de serverkast worden overeenkomstig gelabeld. De WiFi routers worden door Haskoning geleverd.
 
 De nieuw te realiseren serverruimte wordt ingericht met vrijstaande 19" kasten, geleverd door Haskoning. Voor deze ruimte dienen twee afzonderlijke elektrische voedingsgroepen te worden aangebracht. Patchpanelen en alle bekabeling dienen in de serverruimte overzichtelijk, geordend en duidelijk gelabeld te worden gemonteerd en afgewerkt.
 
 De definitieve labelstructuur voor de bekabeling en patchpanelen wordt voorafgaand aan de uitvoering vastgesteld in samenspraak met  Haskoning. Zonder een vastgestelde coderingssystematiek mag geen definitieve labeling worden aangebracht.
+
+#### Toegangsbeveiliging
 
 Voor de overgangen tussen publieksgebieden en niet-publieksgebieden wordt gebruik gemaakt van een geautoriseerd toegangscontrolesysteem. De toegangscontrole tot ruimten in niet-publieksgebieden wordt, afhankelijk van de bijzonderheid van de ruimte, uitgevoerd met een geautoriseerd toegangscontrolesysteem of een elektronische cilinder.
 
