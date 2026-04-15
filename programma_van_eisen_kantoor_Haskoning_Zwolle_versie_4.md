@@ -97,19 +97,13 @@ Alle aanpassingen of wijzigingen van de bestaande installatie dienen in overleg 
 - Er dient een kortsluitvastheidsberekening aangeleverd te worden.
 - Er dienen kabelberekeningen te worden gemaakt van de nieuw aangelegde bekabeling.
 
-Het distributienet moet een minimale reservecapaciteit hebben van 20%; geconstateerde afwijkingen dienen aan de opdrachtgever voorgelegd te worden.
+Het distributienet en de infrastructuur waarin de bekabeling wordt ondergebracht moet een minimale reservecapaciteit hebben van 20%; geconstateerde afwijkingen dienen aan de opdrachtgever voorgelegd te worden.
 
-De geselecteerde producten, apparaten of componenten dienen dusdanig gekozen te worden dat bij noodzakelijke vervanging van een element men niet gedwongen is, om vanuit technische of esthetische overwegingen (eenheid bewaren), meerdere elementen te vervangen tot 15 jaar na installatie.
+Voor het onderbrengen van de bekabeling dient gebruik te worden gemaakt van kabelgoten, wandgoten en vloergoten. Draadkorf kabeldraagsystemen mogen niet worden toegepast.
 
 In de open kantoorruimte dienen aanvullende kabelgoten, contactdozen 230V en data-aansluitingen geïnstalleerd te worden ten behoeve van voldoende ontsluiting van de bureau-eilanden.
 
-
-
 De bekabeling voor de voeding van contactdozen 230V, alsmede zwakstroom-, beveiligings- en communicatie-installaties, mag in gezamenlijke infrastructurele voorzieningen worden ondergebracht indien dit de verschillende installaties niet nadelig beïnvloedt.
-
-De infrastructuur waarin de bekabeling wordt ondergebracht dient een totale reservecapaciteit van 25% te hebben. Draadkorf kabeldraagsystemen mogen niet worden toegepast.
-
-Voor het onderbrengen van de bekabeling dient gebruik te worden gemaakt van kabelgoten, wandgoten en vloergoten. 
 
 [is it possible to install floor boxes? is the finishing layer of the concrete floor thick enough?]
 
@@ -121,6 +115,9 @@ Ieder bureau-eiland wordt voorzien van een elektrische aansluiting in de nabijge
 
 Op ieder bureau dient een dubbele contactdoos 230V aangebracht te worden ten behoeve van werkplekvoorzieningen.
 
+
+De data-aansluitingen ten behoeve van WiFi en bijbehorende verbinding met de serverkast dienen te worden voorzien van een eenduidige codering. Zowel het punt in het veld als de bijbehorende aansluiting in de serverkast worden overeenkomstig gelabeld. De WiFi routers worden door Haskoning geleverd.
+
 #### Overige ruimten 
 De twee grote vergaderruimten op de eerste verdieping worden voorzien van een digitaal beeldscherm en een vergaderapparaat.
 
@@ -131,8 +128,6 @@ De kleinere overlegplekken en informele ontmoetingsruimten naast de pantry worde
 De presentatieruimte op de begane grond wordt voorzien van de noodzakelijke aansluitpunten voor beeldscherm, geluidsvoorziening, camera en laptopaansluiting voor presentaties. Tussen de audiovisuele apparaten en de laptoppositie worden ledige buisvoorzieningen aangebracht.
 
 De telefooncellen dienen elektrisch te worden aangesloten via het plafond, in afstemming met de eisen van de leverancier en met oog op een nette integratie in het plafondbeeld.
-
-De data-aansluitingen ten behoeve van WiFi dienen conform ontwerptekening te worden geplaatst. De aansluitingen van genoemde netwerkpunten en serverkast worden voorzien van een eenduidige codering. Zowel het punt in het veld als de bijbehorende aansluiting in de serverkast worden overeenkomstig gelabeld. De WiFi routers worden door Haskoning geleverd.
 
 De te gebruiken databekabeling dient minimaal Cat6A kwaliteit te zijn, in UTP-uitvoering.
 
